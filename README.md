@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Mowafy</h1>
 <h3 align="center">A passionate computer science student with strong background in different programming languages and methodologies. Highly knowledgeable about technological devices and software. Passionate about experiencing new things, learning skills and building my career path.</h3>
 <img align="center" alt="Coding"  width=1000 height=150 src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariammowafy&label=Profile%20views&color=0e75b6&style=flat" alt="mariammowafy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariammowafy&label=Profile%20views&color=0e75b6&style=flat" alt="mariammowafy" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammowafy" alt="mariammowafy" /></a> </p>
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **mariammowafy1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mariam-m-873577133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariam-m-873577133/" height="30" width="40" /></a>
 <a href="https://kaggle.com/mariammowafyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariammowafyy" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mariam_mowafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mariam_mowafy" height="30" width="40" /></a>
