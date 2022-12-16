@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mariam Mowafy</h1>
 <h3 align="center">A passionate computer science student with strong background in different programming languages and methodologies. Highly knowledgeable about technological devices and software. Passionate about experiencing new things, learning skills and building my career path.</h3>
 <!-- <img align="right" alt="Coding" width=400 src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif"> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariammowafy&label=Profile%20views&color=0e75b6&style=flat" alt="mariammowafy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariammowafy&label=Profile%20views&color=0e75b6&style=flat" alt="mariammowafy" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammowafy" alt="mariammowafy" /></a> </p> -->
 
-- 🌱 I’m currently learning **Machine Learning methodologies and Design Patterns implementations**
+<h4 align="center">🌱 I’m currently learning **Machine Learning methodologies and Design Patterns implementations** <h4>
 
-- 📫 How to reach me **mariammowafy1999@gmail.com**
+<h4 align="center">📫 How to reach me **mariammowafy1999@gmail.com** <h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
