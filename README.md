@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariam Mowafy</h1>
 <h3 align="center">A passionate computer science student with strong background in different programming languages and methodologies. Highly knowledgeable about technological devices and software. Passionate about experiencing new things, learning skills and building my career path.</h3>
-<img align="right" alt="Coding" src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif">
+<img align="center" alt="Coding"  width=700 height=400 src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariammowafy&label=Profile%20views&color=0e75b6&style=flat" alt="mariammowafy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammowafy" alt="mariammowafy" /></a> </p>
