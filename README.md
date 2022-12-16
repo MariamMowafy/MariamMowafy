@@ -9,7 +9,7 @@
 
 <h4 align="center"> 🌱 I’m currently learning Machine Learning methodologies and Design Patterns implementations <h4>
 
-<h4 align="center">📫 How to reach me mariammowafy1999@gmail.com<h4>
+<h4 align="center">📫 Reach me through: mariammowafy1999@gmail.com<h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
