@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mariam Mowafy</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mariam Mowafy</h1> -->
+<div align="center">
+  <h1>Hi <img width=35 height=30 style="transform:rotate(22deg);" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"/>, I'm Mariam Mowafy</h1>
+</div>
 <h3 align="center">A passionate computer science student with strong background in different programming languages and methodologies. Highly knowledgeable about technological devices and software. Passionate about experiencing new things, learning skills and building my career path.</h3>
 <!-- <img align="right" alt="Coding" width=400 src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif"> -->
 <br>
