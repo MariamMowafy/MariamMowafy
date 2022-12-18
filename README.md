@@ -18,7 +18,7 @@
 <div align="left">
 <h3 align="left">Connect with me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
 <div align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/mariam-m-873577133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariam-m-873577133/" height="30" width="30" /></a>&nbsp;
+ <a href="https://www.linkedin.com/in/mariam-m-873577133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mariam-m-873577133/" height="30" width="30" /></a>&nbsp;
 <a href="https://kaggle.com/mariammowafyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariammowafyy" height="30" width="30" /></a>&nbsp;
 <a href="https://www.leetcode.com/mariam_mowafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mariam_mowafy" height="30" width="30" /></a>&nbsp;         </h3>
 </div>
