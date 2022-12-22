@@ -28,8 +28,6 @@
 <br>
 <a href='https://coursera.org/verify/professional-cert/P3CD9LHUEW8A'
 <p align="left"><img align="left" width=323 src="https://github.com/MariamMowafy/MariamMowafy/blob/main/data%20analytics%20specialization%20certificate.png?raw=true" /></a> 
-<!-- <a href='https://coursera.org/verify/professional-cert/P3CD9LHUEW8A'
-<p align="center"><img align="center" width=323 src="https://github.com/MariamMowafy/MariamMowafy/blob/main/data%20analytics%20specialization%20certificate.png?raw=true" /></a> 
- <a href='https://coursera.org/verify/professional-cert/P3CD9LHUEW8A'
-<p align="right"><img align="right" width=323 src="https://github.com/MariamMowafy/MariamMowafy/blob/main/data%20analytics%20specialization%20certificate.png?raw=true" /></a>  -->
+ <a href='https://coursera.org/verify/DR629QETMMYA'
+<p align="center"><img align="center" width=323 src="https://github.com/MariamMowafy/MariamMowafy/blob/main/agile%20certificate.png?raw=true" /></a> 
 
