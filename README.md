@@ -10,7 +10,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammowafy" alt="mariammowafy" /></a> </p> -->
 
 
-<h4 align="center"> 🌱 I’m currently learning Machine Learning methodologies and Design Patterns implementations <h4>
+<h4 align="center"> 🌱 I’m currently learning Testing and QA! <h4>
 
 <h4 align="center">📫 Reach me through: mariammowafy1999@gmail.com<h4>
 
