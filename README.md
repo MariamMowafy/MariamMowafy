@@ -9,9 +9,6 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammowafy" alt="mariammowafy" /></a> </p> -->
 
-
-<h4 align="center"> 🌱 I’m currently learning Testing, QA and Android Development! <h4>
-
 <h4 align="center">📫 Reach me through: mariammowafy1999@gmail.com<h4>
 
 <!-- <h3 align="center">Connect with me:  -->
